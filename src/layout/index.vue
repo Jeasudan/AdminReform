@@ -104,6 +104,6 @@ export default {
   width: 100%;
 }
 .sidebar-container {
-  height: calc(100vh - 60px);
+  top: 60px;
 }
 </style>
